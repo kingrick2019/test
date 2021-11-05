@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title> Web page #2</title>
+		<style>
+		body{
+				background-color:#29b8fb;
+				}
+				
+		</style>
+	</head>
+	<body>
+		<div>
+			<center><p><h1>Welcome to the Gallary</h1></p></center>
+		</div>
+		<div>
+		<center>
+			<table>
+				<tr>
+					<center>
+						<td><img src = "C:\Users\kingr\Downloads/kumapls-anime.gif" border = "1" > </td>
+					</center>
+				</tr>
+				<br/>
+				<tr>
+					<td> This Website alows you to see diffrent photos. Click the Link below to see more! </td>
+				</tr>
+				<tr>
+				<br/>
+				<br/>
+				<br/>
+					<td>
+					<center>
+						<a href="C:\Users\kingr\OneDrive\Documents\Mobile App\Page2.html">Click Me</a>
+					</center>
+					</td>
+				</tr>
+			</table>
+		</center>
+		</div>
+	</body>
+</html>
